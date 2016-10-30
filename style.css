@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+ background-color: Teal;
+  color: white;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/e/e6/Kamar_Zard_Buzhan_-_Nishapur_1.jpg)
+}
+h1 {
+  font-size: 45px;
+}
+h2{
+  font-size: 35px;
+}
+h3{
+  font-size:45px;
+}
+li {font-style: italic;
+  font-size: 30px;
+}
+h3 {
+  text-decoration: underline;
+}
+a {
+  color: White;
+  hover: Green;
+  text-decoration: Underline Overline
+}
